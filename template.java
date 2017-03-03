@@ -21,6 +21,7 @@ public class Main {
       }
 
       // Print results
+      // String ans = new DecimalFormat("#0.000000000000").format(someFloatorDouble);
       p("Case #" + caseId + ": " + ans);
     }
   }
